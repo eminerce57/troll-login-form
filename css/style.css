@@ -1,7 +1,9 @@
 .custom-form{
     border-radius: 16px !important;
     width: 400px;
-    height: 600px;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
     padding-left: 30px;
     padding-right: 30px;
     background-color: #FFFFFF;
@@ -18,6 +20,17 @@
 }
 .form-group{
     margin-top: 20px;
+}
+.btn{
+    margin: auto;
+    margin-top: 20px;
+    width: 100px;
+}
+.yes{
+
+}
+.no{
+margin-left:230px ;
 }
 
 html{
